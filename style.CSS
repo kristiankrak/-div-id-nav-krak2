@@ -1,0 +1,52 @@
+#myDiv {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center; 
+    margin-left: auto;
+    margin-right: auto;
+}
+#myDiv2 {
+    border: 5px outset rgb(135, 235, 157);
+    background-color: rgb(28, 155, 197);
+    text-align: center; 
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#myDiv3 {
+    border: 5px outset rgb(72, 29, 226);
+    background-color: rgb(203, 230, 173);
+    text-align: center; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.topnav a.active {
+    background-color: #03774c;
+    color: rgb(243, 243, 243);
+}
+.topnav {
+    overflow: hidden;
+    background-color: #0f5a00;
+  }
+  
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center; text-align: top;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+.topnav a.active {
+    background-color: #15ffa9;
+    color: rgb(0, 0, 0);
+  }
+.topnav a:hover {
+    background-color: #f3f3f3;
+    color: rgb(102, 196, 110);
+  }
+nav {
+    margin-top: auto;
+}
