@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color: #444;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 16px;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+#blok1 {
+    background-color: #ffffff;
+    padding: 10px;
+}
+#blok2 {
+    background-color: #8f8f8f;
+    padding: 15px;
+}
+#blok3 {
+    background-color: #616161;
+    padding: 20px;
+}
